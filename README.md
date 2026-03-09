@@ -32,6 +32,7 @@ DAU-Đồ án giải thuật và lập trình
 | [0014-longest-common-prefix](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -56,4 +57,12 @@ DAU-Đồ án giải thuật và lập trình
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

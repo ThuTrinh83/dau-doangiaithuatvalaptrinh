@@ -76,6 +76,7 @@ DAU-Đồ án giải thuật và lập trình
 | [0771-jewels-and-stones](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0771-jewels-and-stones) |
 | [0824-goat-latin](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0824-goat-latin) |
 | [1436-destination-city](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/1436-destination-city) |
+| [1556-thousand-separator](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/1556-thousand-separator) |
 ## Trie
 |  |
 | ------- |

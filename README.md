@@ -48,6 +48,7 @@ DAU-Đồ án giải thuật và lập trình
 | [0819-most-common-word](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/1436-destination-city) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +82,7 @@ DAU-Đồ án giải thuật và lập trình
 | [0824-goat-latin](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0824-goat-latin) |
 | [1436-destination-city](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/1436-destination-city) |
 | [1556-thousand-separator](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/1556-thousand-separator) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Trie
 |  |
 | ------- |
@@ -107,6 +109,7 @@ DAU-Đồ án giải thuật và lập trình
 | [0383-ransom-note](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0819-most-common-word) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Quickselect
 |  |
 | ------- |

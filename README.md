@@ -11,6 +11,7 @@ DAU-Đồ án giải thuật và lập trình
 | [0049-group-anagrams](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0347-top-k-frequent-elements) |
+| [0605-can-place-flowers](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,8 @@ DAU-Đồ án giải thuật và lập trình
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->

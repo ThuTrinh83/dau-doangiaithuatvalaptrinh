@@ -35,6 +35,7 @@ DAU-Đồ án giải thuật và lập trình
 | [2057-smallest-index-with-equal-value](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ DAU-Đồ án giải thuật và lập trình
 | [1796-second-largest-digit-in-a-string](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/1796-second-largest-digit-in-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/1844-replace-all-digits-with-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/ThuTrinh83/dau-doangiaithuatvalaptrinh/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
